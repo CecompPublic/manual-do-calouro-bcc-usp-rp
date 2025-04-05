@@ -20,7 +20,7 @@
     margin-top: 2rem;
   }
 
-  h2, h3 {
+  h2, h3, h4 {
     color: var(--primary);
     margin-top: 2rem;
   }
@@ -32,6 +32,14 @@
   
   a:hover {
     text-decoration: underline;
+  }
+  
+  .secao-titulo {
+    font-weight: bold;
+    color: #3f2a7b;
+    font-size: 1.1em;
+    display: inline-block;
+    margin-bottom: 0.2em;
   }
   
   header {
