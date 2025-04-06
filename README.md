@@ -7,19 +7,25 @@ Bem-vindo(a) à USP RP! Este manual foi feito para te ajudar a começar sua jorn
 ## ℹ️ Sobre
 Este repositório é mantido por estudantes do curso e reúne informações úteis sobre:
 
-- A vida no campus
-- A estrutura do curso
-- Disciplinas, professores e monitorias
-- Oportunidades extracurriculares
-- E várias dicas de sobrevivência acadêmica 💡
+- A vida no campus  
+- A estrutura do curso  
+- Disciplinas, professores e monitorias  
+- Oportunidades extracurriculares  
+- E várias dicas de sobrevivência acadêmica 💡  
 
 Contribuições são muito bem-vindas! Sinta-se livre para abrir *issues*, sugerir mudanças ou enviar *pull requests*.
+
+## 🤝 Contribuindo
+Quer ajudar a melhorar o Manual do Calouro? Você é muito bem-vindo(a)!
+
+- Para relatar erros, sugerir melhorias ou pedir novas seções/páginas, por favor abra uma **issue**.
+- Para corrigir ou atualizar conteúdo existente, você pode abrir um **pull request (PR)**.
+- Caso deseje adicionar **novas páginas**, utilize o arquivo `template.html` como base.
 
 ## 📎 Outros materiais úteis
 Caso esteja procurando informações mais gerais, recomendamos também:
 
 👉 Manual do Calouro USP: [clique aqui](https://jornal.usp.br/universidade/manual-do-calouro-apresenta-a-usp-aos-novos-ingressantes/)
-
 
 👉 Manual do Calouro FFCLRP: [clique aqui](https://sites.usp.br/calourofilo/)
 
