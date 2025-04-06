@@ -7,13 +7,10 @@ Bem-vindo(a) à USP RP! Este manual foi feito para te ajudar a começar sua jorn
 ## ℹ️ Sobre
 Este repositório é mantido por estudantes do curso e reúne informações úteis sobre:
 
-- A vida no campus  
-- A estrutura do curso  
-- Disciplinas, professores e monitorias  
-- Oportunidades extracurriculares  
-- E várias dicas de sobrevivência acadêmica 💡  
+- A vida no campus.
+- Seu percurso até a conslusão do curso.
+- Oportunidades extracurriculares dentro e fora da USP.
 
-Contribuições são muito bem-vindas! Sinta-se livre para abrir *issues*, sugerir mudanças ou enviar *pull requests*.
 
 ## 🤝 Contribuindo
 Quer ajudar a melhorar o Manual do Calouro? Você é muito bem-vindo(a)!
