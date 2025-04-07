@@ -2,7 +2,7 @@
 ## 👋 Boas-Vindas!
 Bem-vindo(a) à USP RP! Este manual foi feito para te ajudar a começar sua jornada no curso de **Bacharelado em Ciências da Computação** da USP em Ribeirão Preto.
 
-👉 Acesse a versão web completa do manual: [clique aqui](https://pauloguilhermepp.github.io/manual-do-calouro-bcc-usp-rp/)
+👉 Acesse a versão web completa do manual: [clique aqui](https://cecomppublic.github.io/manual-do-calouro-bcc-usp-rp/index.html)
 
 ## ℹ️ Sobre
 Este repositório é mantido por estudantes do curso e reúne informações úteis sobre:
