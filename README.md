@@ -19,6 +19,7 @@ Quer ajudar a melhorar o Manual do Calouro? Você é muito bem-vindo(a)!
 - Para corrigir ou atualizar conteúdo existente, você pode abrir um **pull request (PR)**.
 - Caso deseje adicionar **novas páginas**, utilize o arquivo `template.html` como base.
 
+Para maiores informações sobre como contribuir, por favor acesse nossas [intruções para novos colaboradores](https://github.com/CecompPublic/manual-do-calouro-bcc-usp-rp/blob/main/CONTRIBUTING.md).
 ## 📎 Outros materiais úteis
 Caso esteja procurando informações mais gerais, recomendamos também:
 
